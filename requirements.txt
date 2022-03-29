@@ -1,3 +1,5 @@
 django
 requests
 bs4
+gunicorn
+whitenoise
